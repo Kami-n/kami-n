@@ -67,7 +67,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamiworks2@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamine_/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamine-figueira-ramos-585123141/)
-  [![Dio](https://img.shields.io/badge/dio%20)](https://web.dio.me/users/kamyne?tab=settings&page=1)
+  [![Dio]( https://img.shields.io/badge/dio-blue)](https://web.dio.me/users/kamyne?tab=settings&page=1)
   
 </div>
          
